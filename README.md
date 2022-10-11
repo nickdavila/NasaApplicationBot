@@ -9,20 +9,7 @@ This is a project made by Nick Davila
 
 ## Installation
 
-Must be part of the HETDEX group to use (uses required HETDEX data/libraries).
-
-Import the following libraries (the commented out ones are for future features):
-
-```
-from fnmatch import fnmatch
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-#from selenium.webdriver.support.ui import Select
-#from selenium.webdriver.common.by import By
-#from selenium.webdriver.support.ui import WebDriverWait
-#from selenium.webdriver.support import expected_conditions as EC
-import time
-```
+Work in progress!
 
 ## Usage
 
