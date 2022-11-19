@@ -1,4 +1,4 @@
-# NasaApplicationBot (SCRAPED)
+# NasaApplicationBot (SCRAPPED)
 
 UPDATE 2022: I initially started creating this bot because when I first applied for internships at NASA there was no option to carry application information over to another application. I didn't want to spend time repeating the same information so I got to work on this bot. However as of writing this (11/19/2022), there is now an option to carry over information to another application. Now there is no need for me to finish this bot. However it was still fun to start it :)!
 
